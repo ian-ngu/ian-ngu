@@ -11,9 +11,7 @@
 </h1>
 </div>
 
-<p >
-I'm a Computer Science graduate aspiring to become a Full-Stack Developer with a passion for building modern web applications.
-</p>
+I'm a **Computer Science graduate** aspiring to become a **Full-Stack Developer** with a passion for building modern web applications.
 
 <div >
 <ul>
